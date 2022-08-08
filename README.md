@@ -9,6 +9,8 @@ Algorithm of multidimensional spectra construction:
 5) Make reconstruction algorithm to extract only non-liniar part of the CEP.
 6) Make 2D Fourier transform of reconstructed CEP specta. G(t,w=x,tau_{phi}) -> G(w_{t},w=x,w_{CEP})
 
+Files:
+
 steps_ft.py - code for steps 4-6.
 
 algorithm_reconstruction.pdf - file with description of step 5. (what should be done for nonlinear part of CEP extraction).
